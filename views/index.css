@@ -1,0 +1,18 @@
+h2 {
+  color: rgb(7, 178, 245);
+}
+p {
+  color: #212121;
+}
+
+li {
+  margin: 12px 0;
+  font-size: 16px;
+  button {
+    margin-left: 8px;
+  }
+}
+
+.listItem {
+  color: #212121;
+}
